@@ -1,9 +1,9 @@
-body {body {
+body {
     background-color: rgb(189, 189, 241);
 }
 #img{
-    width:500px;
-    height: 320px;
+    width:700px;
+    height: 420px;
     position: relative;
   
    border-radius: 25px;
@@ -25,4 +25,3 @@ place-items: center;
 display: grid;
 height:50vh;
 }
-
