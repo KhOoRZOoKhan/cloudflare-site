@@ -5,7 +5,7 @@ body {
     width:700px;
     height: 420px;
     position: relative;
-  
+    
    border-radius: 25px;
 
 }
@@ -18,10 +18,11 @@ body {
     color: rgb(122, 122, 240);
     text-align: center;
     position: relative;
-    top: 100px;
+    top: 50px;
 }
 .div{
 place-items: center;
 display: grid;
 height:50vh;
 }
+
