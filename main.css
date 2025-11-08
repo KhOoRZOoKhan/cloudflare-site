@@ -1,14 +1,28 @@
-body {
-    background-color: rgb(221, 221, 243);
+body {body {
+    background-color: rgb(189, 189, 241);
 }
 #img{
-    width:100x;
+    width:500px;
     height: 320px;
     position: relative;
-   left: 650px;
+  
    border-radius: 25px;
+
 }
 #h1{
     text-align: center;
-    color: rgb(207, 0, 0);
+    color: purple;
 }
+
+#contact{
+    color: rgb(122, 122, 240);
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+.div{
+place-items: center;
+display: grid;
+height:50vh;
+}
+
