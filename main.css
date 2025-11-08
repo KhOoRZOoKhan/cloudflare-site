@@ -5,7 +5,7 @@ body {
     width:700px;
     height: 420px;
     position: relative;
-  
+   top:50px;
    border-radius: 25px;
 
 }
@@ -25,4 +25,5 @@ place-items: center;
 display: grid;
 height:50vh;
 }
+
 
